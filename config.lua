@@ -25,7 +25,7 @@ Config = {
 	refillTick = 250,
 
 	-- Fuel cost (Added once every tick)
-	priceTick = 5,
+	priceTick = 0.1,
 
 	-- Can durability loss per refillTick
 	durabilityTick = 1.3,
